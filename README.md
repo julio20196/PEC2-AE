@@ -6,3 +6,5 @@ El pipeline creado incluye una imputación y normalizado de valores, así como l
 A pesar de que no he podido abrir el script como tal en mi navegador, he confirmado que la imagen de docker funciona en mi terminal:
 
 ![image](https://github.com/julio20196/pec2-ae/assets/71418000/9b27e1db-8fdc-48dc-b374-83546fef580b)
+
+He creado la imagen con la ayuda de los tutoriales de docker, ya que no entendía muy bien como partir del repositorio del profesor, por lo que es posible que haya fallos.
